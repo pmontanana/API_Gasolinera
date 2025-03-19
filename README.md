@@ -58,7 +58,3 @@ La API expone los siguientes endpoints:
 ### Ejemplos de uso
 
 #### Utilizar POSTMAN para probar a obtener, poner, actualizar o quitar informacion
-
-
-
-Recuerda actualizar cualquier información específica de tu proyecto, como el correo electrónico de contacto y cualquier otra configuración o instrucción relevante.
